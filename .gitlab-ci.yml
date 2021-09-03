@@ -11,4 +11,4 @@ deployToHugo:
   - rsync -rlptvzP public/ syskan@christina.ie.u-ryukyu.ac.jp:/mnt/cephfs/ie-web/ie/XXXX
   - rm -rf public
   only:
-  - master
+  - main
