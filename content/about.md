@@ -4,7 +4,7 @@ date: 2021-09-03T14:01:47+09:00
 ---
 
 
-y19の issei と申します．基本的にはこの名前でGitHub，Twitter, はてぶ などやってます．
+y19の issei と申します．基本的にはこの名前で[GitHub](https://github.com/Issei0804-ie)，[Twitter](https://twitter.com/iLP_isse), [はてぶ](https://issei-ie.hatenablog.com/) などやってます．
 
 趣味はwebアプリ開発と音楽です．
 
