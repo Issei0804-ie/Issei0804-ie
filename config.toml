@@ -1,0 +1,15 @@
+baseURL = "https://ie.u-ryukyu.ac.jp/e195755"
+title = "issei-homepage"
+languageCode = "ja"
+defaultContentLanguage = "ja"
+hasCJKLanguage = true
+theme = "hugo-theme-basic"
+
+[[params.menu]]
+  name = "work"
+  url = "work/"
+
+[[params.menu]]
+  name = "about me"
+  url = "about/"
+
