@@ -10,6 +10,9 @@ theme = "hugo-theme-basic"
   url = "work/"
 
 [[params.menu]]
-  name = "about me"
-  url = "about/"
+  name = "about_me"
+  url = "about"
 
+[[params.menu]]
+  name = "etc"
+  url = "etc/"
