@@ -17,6 +17,6 @@ y19の issei と申します．基本的にはこの名前で[GitHub](https://gi
 
 連絡先:
 
- `echo "ZTE5NTc1NUBpZS51LXJ5dWt5dS5hYy5qcAo=" | base64 -d`
+ ```echo "ZTE5NTc1NUBpZS51LXJ5dWt5dS5hYy5qcAo=" | base64 -d```
 
 {{< twitter-tl >}}
