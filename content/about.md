@@ -15,6 +15,8 @@ y19の issei と申します．基本的にはこの名前で[GitHub](https://gi
 
 何かありましたら SNSか下記の連絡先まで一報ください．
 
-連絡先: `echo "ZTE5NTc1NUBpZS51LXJ5dWt5dS5hYy5qcAo=" | base64 -d`
+連絡先:
+
+ `echo "ZTE5NTc1NUBpZS51LXJ5dWt5dS5hYy5qcAo=" | base64 -d`
 
 {{< twitter-tl >}}
