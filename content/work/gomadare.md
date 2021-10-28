@@ -19,3 +19,7 @@ date: 2021-09-03T14:06:05+09:00
 次はおそらく enpit が直近で行われるチーム開発ですが，
 
 わりと使ってもらえるような物を作っていきたいですね．
+
+ソースは[こちら](https://gitlab.ie.u-ryukyu.ac.jp/students/e19/mobile_app_team3)．
+
+ie関係者しか見えませんが...
