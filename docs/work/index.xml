@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Works on home</title>
-    <link>https://ie.u-ryukyu.ac.jp/e195755/work/</link>
+    <link>https://issei0804-ie.github.io/Issei0804-ie/work/</link>
     <description>Recent content in Works on home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 28 Jan 2022 11:56:23 +0900</lastBuildDate><atom:link href="https://ie.u-ryukyu.ac.jp/e195755/work/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jan 2022 11:56:23 +0900</lastBuildDate><atom:link href="https://issei0804-ie.github.io/Issei0804-ie/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Do-link-map-to-a-drink</title>
-      <link>https://ie.u-ryukyu.ac.jp/e195755/work/dolink/</link>
+      <link>https://issei0804-ie.github.io/Issei0804-ie/work/dolink/</link>
       <pubDate>Fri, 28 Jan 2022 11:56:23 +0900</pubDate>
       
-      <guid>https://ie.u-ryukyu.ac.jp/e195755/work/dolink/</guid>
+      <guid>https://issei0804-ie.github.io/Issei0804-ie/work/dolink/</guid>
       <description>enPiT のプロジェクトです． 琉大って敷地が結構広いので，初見の人が自販機の場所がわからないことがあるらしく，それを解決するプロジェクトです． ただ，</description>
     </item>
     
     <item>
       <title>Dragonfruit</title>
-      <link>https://ie.u-ryukyu.ac.jp/e195755/work/dragonfruit/</link>
+      <link>https://issei0804-ie.github.io/Issei0804-ie/work/dragonfruit/</link>
       <pubDate>Sat, 04 Sep 2021 15:32:27 +0900</pubDate>
       
-      <guid>https://ie.u-ryukyu.ac.jp/e195755/work/dragonfruit/</guid>
+      <guid>https://issei0804-ie.github.io/Issei0804-ie/work/dragonfruit/</guid>
       <description>プログラミング3 で作った VRRPG? っぽいプロジェクト． VR で魔法を生成して PVP を行うというゲームですが，完成度は提出2週間前くらいから取り組んだのでそん</description>
     </item>
     
     <item>
       <title>Gomadare</title>
-      <link>https://ie.u-ryukyu.ac.jp/e195755/work/gomadare/</link>
+      <link>https://issei0804-ie.github.io/Issei0804-ie/work/gomadare/</link>
       <pubDate>Fri, 03 Sep 2021 14:06:05 +0900</pubDate>
       
-      <guid>https://ie.u-ryukyu.ac.jp/e195755/work/gomadare/</guid>
+      <guid>https://issei0804-ie.github.io/Issei0804-ie/work/gomadare/</guid>
       <description>実験3で作ったプロジェクト． プログラミング初学者のためにゲーム感覚で学べるをコンセプトにいろいろ作りましたが， もう少しペルソナを明確にしてお</description>
     </item>
     
     <item>
       <title>教務情報通知BOT(sedona)</title>
-      <link>https://ie.u-ryukyu.ac.jp/e195755/work/sedona/</link>
+      <link>https://issei0804-ie.github.io/Issei0804-ie/work/sedona/</link>
       <pubDate>Sun, 07 Jun 2020 13:53:14 +0900</pubDate>
       
-      <guid>https://ie.u-ryukyu.ac.jp/e195755/work/sedona/</guid>
+      <guid>https://issei0804-ie.github.io/Issei0804-ie/work/sedona/</guid>
       <description>システム内容としては，琉球大学の教務情報のRSSを叩いて， 新しい投稿や更新があれば通知するシステムです． コロナ関連で色々と情報が溢れている中</description>
     </item>
     
     <item>
       <title>Kousinkun</title>
-      <link>https://ie.u-ryukyu.ac.jp/e195755/work/kousinkun/</link>
+      <link>https://issei0804-ie.github.io/Issei0804-ie/work/kousinkun/</link>
       <pubDate>Sun, 07 Jun 2020 13:51:14 +0900</pubDate>
       
-      <guid>https://ie.u-ryukyu.ac.jp/e195755/work/kousinkun/</guid>
+      <guid>https://issei0804-ie.github.io/Issei0804-ie/work/kousinkun/</guid>
       <description>こちらも，遠隔での講義でシラバスが頻繁に更新され， 追うのが大変だったため作成しました． ただ，出来上がるころには更新が落ち着いていたので， 私の</description>
     </item>
     
     <item>
       <title>Chatroom</title>
-      <link>https://ie.u-ryukyu.ac.jp/e195755/work/chatroom/</link>
+      <link>https://issei0804-ie.github.io/Issei0804-ie/work/chatroom/</link>
       <pubDate>Sun, 07 Jun 2020 13:50:14 +0900</pubDate>
       
-      <guid>https://ie.u-ryukyu.ac.jp/e195755/work/chatroom/</guid>
+      <guid>https://issei0804-ie.github.io/Issei0804-ie/work/chatroom/</guid>
       <description>ミドルウェアのチューニングの勉強をしたくて， 簡易的なアプリを作ろうと思い，チャットルームを作ってみました． アプリ制作で結構時間がかかったので</description>
     </item>
     

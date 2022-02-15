@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on home</title>
-    <link>https://ie.u-ryukyu.ac.jp/e195755/categories/</link>
+    <link>https://issei0804-ie.github.io/Issei0804-ie/categories/</link>
     <description>Recent content in Categories on home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language><atom:link href="https://ie.u-ryukyu.ac.jp/e195755/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language><atom:link href="https://issei0804-ie.github.io/Issei0804-ie/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
