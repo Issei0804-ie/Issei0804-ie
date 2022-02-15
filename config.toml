@@ -4,6 +4,7 @@ languageCode = "ja"
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
 theme = "hugo-theme-basic"
+publishDir = "docs"
 
 [[params.menu]]
   name = "work"
