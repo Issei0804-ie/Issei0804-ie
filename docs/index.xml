@@ -31,7 +31,7 @@
       <pubDate>Wed, 08 Sep 2021 00:54:48 +0900</pubDate>
       
       <guid>https://issei0804-ie.github.io/Issei0804-ie/etc/secret/</guid>
-      <description>https://scrapbox.io/issei-ie-public/ -- 秘密のページです． 探しやすい位置に隠しておきました． ただ，恐らく役に立つものではないです&amp;hellip;</description>
+      <description>https://scrapbox.io/issei-ie-public/ -- 秘密のページです． こういう遊び要素があるのって楽しくないですか？？ でも，恐らく役に立つものではないです&amp;hellip;</description>
     </item>
     
     <item>
@@ -50,15 +50,6 @@
       
       <guid>https://issei0804-ie.github.io/Issei0804-ie/work/gomadare/</guid>
       <description>実験3で作ったプロジェクト． プログラミング初学者のためにゲーム感覚で学べるをコンセプトにいろいろ作りましたが， もう少しペルソナを明確にしてお</description>
-    </item>
-    
-    <item>
-      <title>about me</title>
-      <link>https://issei0804-ie.github.io/Issei0804-ie/about/</link>
-      <pubDate>Fri, 03 Sep 2021 14:01:47 +0900</pubDate>
-      
-      <guid>https://issei0804-ie.github.io/Issei0804-ie/about/</guid>
-      <description>y19の issei です．GitHub，Twitter, はてぶ などやってます． 趣味はwebアプリ開発と音楽です． 音楽は大学の吹奏楽サークルに所属してい</description>
     </item>
     
     <item>
@@ -86,6 +77,15 @@
       
       <guid>https://issei0804-ie.github.io/Issei0804-ie/work/chatroom/</guid>
       <description>ミドルウェアのチューニングの勉強をしたくて， 簡易的なアプリを作ろうと思い，チャットルームを作ってみました． アプリ制作で結構時間がかかったので</description>
+    </item>
+    
+    <item>
+      <title>about me</title>
+      <link>https://issei0804-ie.github.io/Issei0804-ie/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://issei0804-ie.github.io/Issei0804-ie/about/</guid>
+      <description>y19の issei です．GitHub，Twitter, はてぶ などやってます． 趣味はwebアプリ開発と音楽です． 音楽は大学の吹奏楽サークルに所属してい</description>
     </item>
     
   </channel>
