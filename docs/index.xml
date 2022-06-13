@@ -6,7 +6,16 @@
     <description>Recent content on home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Feb 2022 00:35:25 +0900</lastBuildDate><atom:link href="https://issei0804-ie.github.io/Issei0804-ie/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jun 2022 23:54:24 +0900</lastBuildDate><atom:link href="https://issei0804-ie.github.io/Issei0804-ie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Who Is in a Lab</title>
+      <link>https://issei0804-ie.github.io/Issei0804-ie/work/who-is-in-a-lab/</link>
+      <pubDate>Mon, 13 Jun 2022 23:54:24 +0900</pubDate>
+      
+      <guid>https://issei0804-ie.github.io/Issei0804-ie/work/who-is-in-a-lab/</guid>
+      <description>golang#32 で発表してきました。 何気に初の外部登壇な気がします。 詳しいことは下記スライドを見る感じで。 https://speakerdeck.com/issei0804/lab-zai-shi-ba-wo-sisutemuwo-zuo-tutahua</description>
+    </item>
+    
     <item>
       <title>FAQ</title>
       <link>https://issei0804-ie.github.io/Issei0804-ie/etc/questions/</link>
@@ -85,7 +94,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://issei0804-ie.github.io/Issei0804-ie/about/</guid>
-      <description>y19の issei です。GitHub、Twitter, はてぶ などやってます。 趣味はwebアプリ開発と音楽です(最近はNLPに関する勉強も)。 音楽は大</description>
+      <description>y19の issei です。GitHub、Twitter, はてぶ などやってます。 趣味はwebアプリ開発と音楽です(最近はNLPに関する勉強も)。 NLP以</description>
     </item>
     
   </channel>
