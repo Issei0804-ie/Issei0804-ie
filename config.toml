@@ -17,3 +17,7 @@ publishDir = "docs"
 [[params.menu]]
   name = "etc"
   url = "etc/"
+
+[[params.menu]]
+  name = "about_ie"
+  url = "about-ie"
