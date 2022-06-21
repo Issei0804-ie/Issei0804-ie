@@ -11,6 +11,8 @@ VR で魔法を生成して PVP を行うというゲームですが，完成度
 
 ただ，同じ班に実装力がある人がいて，その人のコードから実装の方法とかを学ぶことができたのでいい機会だった...
 
-ソースは[こちら](https://gitlab.ie.u-ryukyu.ac.jp/students/e19/dragonfruitvr)．
+~~ソースは[こちら](https://gitlab.ie.u-ryukyu.ac.jp/students/e19/dragonfruitvr)．~~
 
-ie関係者しか見えませんが...
+~~ie関係者しか見えませんが...~~
+
+どうやら学科GitLabがアタックされた影響でソースはもう見れなくなったらしい。
