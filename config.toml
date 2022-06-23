@@ -6,6 +6,11 @@ hasCJKLanguage = true
 theme = "hugo-theme-basic"
 publishDir = "docs"
 
+
+#[[params.menu]]
+#  name = "welcome!!"
+#  url = "welcome"
+
 [[params.menu]]
   name = "work"
   url = "work/"
@@ -20,4 +25,4 @@ publishDir = "docs"
 
 [[params.menu]]
   name = "about_ie"
-  url = "about-ie"
+  url = "about_ie"
