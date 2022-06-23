@@ -6,7 +6,16 @@
     <description>Recent content on home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Jun 2022 15:47:03 +0900</lastBuildDate><atom:link href="https://issei0804-ie.github.io/Issei0804-ie/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jun 2022 22:25:14 +0900</lastBuildDate><atom:link href="https://issei0804-ie.github.io/Issei0804-ie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EnPiT</title>
+      <link>https://issei0804-ie.github.io/Issei0804-ie/about-ie/enpit/</link>
+      <pubDate>Thu, 23 Jun 2022 22:25:14 +0900</pubDate>
+      
+      <guid>https://issei0804-ie.github.io/Issei0804-ie/about-ie/enpit/</guid>
+      <description>僕のenPiTに関するプロジェクトの話はこっち このページでは、enPiTに対する感想を書いていきます。 ちょいと文句っぽい感じになるがまあ許し</description>
+    </item>
+    
     <item>
       <title>Lab</title>
       <link>https://issei0804-ie.github.io/Issei0804-ie/about-ie/lab/</link>
@@ -40,7 +49,7 @@
       <pubDate>Fri, 28 Jan 2022 11:56:23 +0900</pubDate>
       
       <guid>https://issei0804-ie.github.io/Issei0804-ie/work/dolink/</guid>
-      <description>enPiT のプロジェクトです． 琉大って敷地が結構広いので，初見の人が自販機の場所がわからないことがあるらしく，それを解決するプロジェクトです． ただ，</description>
+      <description>enPiT のプロジェクトです． enPiT とは enPiTは文科省補助事業として全国の情報系大学と企業が連携して設計、運営している実践教育プログラムです。 ま、講</description>
     </item>
     
     <item>
