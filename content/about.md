@@ -22,4 +22,7 @@ Goっていう言語が好きですが、最近はあまりかけてないかも
 
  `echo "aXNzZWkwODA0QG91dGxvb2suY29tCg==" | base64 -d`
 
+
+もし typo やリンク切れを見つけたら、[repository](https://github.com/Issei0804-ie/blog) に issue を投げてくれると嬉しいです。
+
 {{< twitter-tl >}}
