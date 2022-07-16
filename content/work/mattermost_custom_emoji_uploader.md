@@ -12,6 +12,8 @@ draft: false
 
 というツールです。
 
+あとGoで書いたのでバイナリを落とすだけで実行できますし、特に依存するシステムも無いのが特徴的です。
+
 初めて [goreleaser](https://github.com/goreleaser/goreleaser-action) を使ってみたのですがかなり楽に release を作ってくれたので今後も使う予定です。
 
 リポジトリは[こちら](https://github.com/Issei0804-ie/mattermost_custom_emoji_uploader)。

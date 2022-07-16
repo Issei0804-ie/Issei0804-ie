@@ -13,7 +13,7 @@
       <pubDate>Sat, 16 Jul 2022 23:05:36 +0900</pubDate>
       
       <guid>https://issei0804-ie.github.io/blog/work/mattermost_custom_emoji_uploader/</guid>
-      <description>概要 mattermost で面倒な custom emoji の登録を簡単に実行できるバイナリ personal access token が必要 複数の画像を一括で登録できる というツールです。 初めて goreleaser を使ってみたのですがかな</description>
+      <description>概要 mattermost で面倒な custom emoji の登録を簡単に実行できるバイナリ personal access token が必要 複数の画像を一括で登録できる というツールです。 あとGoで書いたのでバイナリを落</description>
     </item>
     
     <item>
