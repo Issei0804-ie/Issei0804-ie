@@ -4,7 +4,6 @@ date: 2022-06-23T22:25:14+09:00
 draft: false
 ---
 
-
 僕のenPiTに関するプロジェクトの話は[こっち]({{< relref "work/dolink.md" >}}) 
 
 このページでは、enPiTに対する感想を書いていきます。

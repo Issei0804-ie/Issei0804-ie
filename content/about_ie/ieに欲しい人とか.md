@@ -1,7 +1,7 @@
 ---
 title: "ieに欲しい人とか"
 date: 2022-07-15T21:38:12+09:00
-draft: false
+draft: true
 ---
 
 #### ie に欲しい人とは
