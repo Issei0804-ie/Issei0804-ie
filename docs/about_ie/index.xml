@@ -6,9 +6,6 @@
     <description>Recent content in About_ies on home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-<<<<<<< HEAD
-    <lastBuildDate>Thu, 23 Jun 2022 22:25:14 +0900</lastBuildDate><atom:link href="https://issei0804-ie.github.io/blog/about_ie/index.xml" rel="self" type="application/rss+xml" />
-=======
     <lastBuildDate>Tue, 11 Oct 2022 11:19:51 +0900</lastBuildDate><atom:link href="https://issei0804-ie.github.io/blog/about_ie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Syskan</title>
@@ -19,16 +16,6 @@
       <description>うちの学科にはシステム管理チーム謎の組織があって、そこで学科サービスのメンテナンス、機能向上を行っていました。 僕が4年次のときのシステムは物</description>
     </item>
     
-    <item>
-      <title>ieに欲しい人とか</title>
-      <link>https://issei0804-ie.github.io/blog/about_ie/ie%E3%81%AB%E6%AC%B2%E3%81%97%E3%81%84%E4%BA%BA%E3%81%A8%E3%81%8B/</link>
-      <pubDate>Fri, 15 Jul 2022 21:38:12 +0900</pubDate>
-      
-      <guid>https://issei0804-ie.github.io/blog/about_ie/ie%E3%81%AB%E6%AC%B2%E3%81%97%E3%81%84%E4%BA%BA%E3%81%A8%E3%81%8B/</guid>
-      <description>ie に欲しい人とは こういうのって教官とかが書くんじゃないの？と思いつつ、書いていきます。 個人的にこういう人がいたら嬉しいみたいな感じです。 レス</description>
-    </item>
-    
->>>>>>> f6ff345 (add syskan)
     <item>
       <title>EnPiT</title>
       <link>https://issei0804-ie.github.io/blog/about_ie/enpit/</link>
