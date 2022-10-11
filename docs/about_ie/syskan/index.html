@@ -19,16 +19,16 @@
 
 <meta property="og:type" content="article" />
 <meta property="og:description" content="" />
-<meta property="og:title" content="about me" />
+<meta property="og:title" content="Syskan" />
 <meta property="og:site_name" content="home" />
 <meta property="og:image" content="" />
 <meta property="og:image:type" content="image/jpeg" />
 <meta property="og:image:width" content="" />
 <meta property="og:image:height" content="" />
-<meta property="og:url" content="https://issei0804-ie.github.io/blog/about/" />
+<meta property="og:url" content="https://issei0804-ie.github.io/blog/about_ie/syskan/" />
 <meta property="og:locale" content="ja" />
-<meta property="article:published_time" content="0001-01-01
-" /> <meta property="article:modified_time" content="0001-01-01
+<meta property="article:published_time" content="2022-10-11
+" /> <meta property="article:modified_time" content="2022-10-11
 " />
 
 
@@ -36,8 +36,8 @@
 
 
 
-    <title>about me</title>
-    <link rel="canonical" href="https://issei0804-ie.github.io/blog/about/" />
+    <title>Syskan</title>
+    <link rel="canonical" href="https://issei0804-ie.github.io/blog/about_ie/syskan/" />
 
 
     <link
@@ -74,22 +74,35 @@
   >
 
   <section id="main" class="mt5">
-    <h1 itemprop="name" id="title">about me</h1>
+    <h1 itemprop="name" id="title">Syskan</h1>
 
     <article itemprop="articleBody" id="content" class="w-90 lh-copy">
-      <p>y19の issei です。<a href="https://github.com/Issei0804-ie">GitHub</a>、<a href="https://twitter.com/iLP_isse">Twitter</a>, <a href="https://issei-ie.hatenablog.com/">はてぶ</a> などやってます。</p>
-<p>趣味はコードを書くことと音楽です。ベースとか。</p>
-<p>音楽は大学の吹奏楽サークルに所属していました。そこではチューバをやっていましたがもう吹いていません。</p>
-<p>アプリ開発とかは、1年次の6月から3月まで企業でアルバイトをしていました。
-あとは <a href="/blog/work/dolink/">enPiT</a> とか..．</p>
-<p>Goっていう言語が好きですが、最近はあまりかけてないかも&hellip;</p>
-<p>連絡先:</p>
-<p><code>echo &quot;aXNzZWkwODA0QG91dGxvb2suY29tCg==&quot; | base64 -d</code></p>
-<p>もし typo やリンク切れを見つけたら、<a href="https://github.com/Issei0804-ie/blog">repository</a> に issue を投げてくれると嬉しいです。</p>
-<div width=200 height=300>
-<a class="twitter-timeline" href="https://twitter.com/iLP_isse?ref_src=twsrc%5Etfw">Tweets by iLP_isse</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-
+      <p>うちの学科にはシステム管理チーム<del>謎の組織</del>があって、そこで学科サービスのメンテナンス、機能向上を行っていました。
+僕が4年次のときのシステムは物理サーバーが9台あって、主にcephとkvm, podman を使ってサービス提供していた感じです。</p>
+<p>それで、podmanが色々厳しいところがあって、k8sに移行する作業を行っている途中です。
+例えば</p>
+<ul>
+<li>コンテナにIPアドレスを割り振る際、pingを飛ばして対象がいないことを確認して割り振っている
+<ul>
+<li>しかも結構めんどくさい</li>
+</ul>
+</li>
+<li>各物理サーバーで1台ずつほしいサービスを立ち上げる際、同じ作業を9回行う必要がある</li>
+<li>どこの物理サーバーで何のサービスを提供しているかわかりにくい</li>
+<li>podmanでコンテナを立ち上げるために物理サーバー上で作業することがメイン
+<ul>
+<li>物理サーバー上の作業をやめたい</li>
+</ul>
+</li>
+<li>一部のサーバーに負荷が偏る</li>
+<li>デプロイ作業を絶妙にCI化できない
+<ul>
+<li>物理サーバーで手作業しているので</li>
+</ul>
+</li>
+</ul>
+<p>みたいな感じです。
+理想としては GitLab に push するとk8sで展開してくれる感じなのですが、僕が卒業するまでにどこまでできるかなぁ&hellip;</p>
 
     </article>
   </section>
