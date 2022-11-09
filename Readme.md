@@ -1,8 +1,7 @@
 # 環境構築方法
 
 ```
-$ git submodule init
-$ git submodule update
+$ git clone --recursive git@github.com:Issei0804-ie/blog.git
 ```
 
 ```
