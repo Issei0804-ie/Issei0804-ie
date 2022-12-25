@@ -1,4 +1,4 @@
- name: html-generate-with-hugo
+ name: generate-html-with-hugo
  
  on:
    push:
@@ -10,10 +10,17 @@
    PUBLISH_BRANCH: "gh-pages"
  
  jobs:
-   upload-doc:
+   generate-html:
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v2
+
+       - name: Set up Go 1.9
+         uses: actions/setup-go@v2
+         with:
+           go-version: 1.9
+       - run: CGO_ENABLED=1 go install --tags extended github.com/gohugoio/hugo@latest
+       - run: hugo
  
        - name: Deploy to GitHub Pages
          uses: peaceiris/actions-gh-pages@v3
