@@ -1,0 +1,23 @@
+ name: html-generate-with-hugo
+ 
+ on:
+   push:
+     branches:
+       - "master"
+ 
+ env:
+   PUBLISH_DIR: "./docs"
+   PUBLISH_BRANCH: "gh-pages"
+ 
+ jobs:
+   upload-doc:
+     runs-on: ubuntu-latest
+     steps:
+       - uses: actions/checkout@v2
+ 
+       - name: Deploy to GitHub Pages
+         uses: peaceiris/actions-gh-pages@v3
+         with:
+           github_token: ${{ secrets.GITHUB_TOKEN }}
+           publish_dir: ${{ env.PUBLISH_DIR }}
+           publish_branch: ${{ env.PUBLISH_BRANCH }}
