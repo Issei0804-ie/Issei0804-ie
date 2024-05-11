@@ -10,10 +10,6 @@ publishDir = "docs"
 [markup.goldmark.renderer]
   unsafe = true
 
-#[[params.menu]]
-#  name = "welcome!!"
-#  url = "welcome"
-
 [[params.menu]]
   name = "work"
   url = "work/"
