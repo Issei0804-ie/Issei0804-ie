@@ -9,7 +9,7 @@ publishDir = "docs"
 
 [markup.goldmark.renderer]
   unsafe = true
-  
+
 #[[params.menu]]
 #  name = "welcome!!"
 #  url = "welcome"
@@ -20,7 +20,7 @@ publishDir = "docs"
 
 [[params.menu]]
   name = "about_me"
-  url = "about"
+  url = "about/"
 
 [[params.menu]]
   name = "etc"
@@ -28,7 +28,7 @@ publishDir = "docs"
 
 [[params.menu]]
   name = "about_ie"
-  url = "about_ie"
+  url = "about_ie/"
 
 [[params.menu]]
   name = "events"
